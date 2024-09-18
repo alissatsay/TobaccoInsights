@@ -9,7 +9,7 @@ A data analytics project analyzing 30 years of tobacco use trends among youth an
 # Installation
 Clone the repository:
 ```bash
- git clone https://github.com/yourusername/yourproject.git
+ git clone https://github.com/alissatsay/TobaccoInsights.git
 ```
 
 # Usage
